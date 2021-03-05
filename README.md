@@ -1,1 +1,1 @@
-# Microsoft Press Introduction to Power BI
+# Microsoft Press Introduction to Microsoft Power BI
