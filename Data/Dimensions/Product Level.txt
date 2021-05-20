@@ -1,0 +1,38 @@
+ProductSubcategoryKey	Product Subcategory	Product Category
+1	Mountain Bikes	Bikes
+2	Road Bikes	Bikes
+3	Touring Bikes	Bikes
+4	Handlebars	Components
+5	Bottom Brackets	Components
+6	Brakes	Components
+7	Chains	Components
+8	Cranksets	Components
+9	Derailleurs	Components
+10	Forks	Components
+11	Headsets	Components
+12	Mountain Frames	Components
+13	Pedals	Components
+14	Road Frames	Components
+15	Saddles	Components
+16	Touring Frames	Components
+17	Wheels	Components
+18	Bib-Shorts	Clothing
+19	Caps	Clothing
+20	Gloves	Clothing
+21	Jerseys	Clothing
+22	Shorts	Clothing
+23	Socks	Clothing
+24	Tights	Clothing
+25	Vests	Clothing
+26	Bike Racks	Accessories
+27	Bike Stands	Accessories
+28	Bottles and Cages	Accessories
+29	Cleaners	Accessories
+30	Fenders	Accessories
+31	Helmets	Accessories
+32	Hydration Packs	Accessories
+33	Lights	Accessories
+34	Locks	Accessories
+35	Panniers	Accessories
+36	Pumps	Accessories
+37	Tires and Tubes	Accessories

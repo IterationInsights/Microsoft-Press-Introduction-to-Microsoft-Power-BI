@@ -1,0 +1,13 @@
+EU and UK manager
+
+Pacific Manager
+
+(
+[Sales Territory Region] = "United Kingdom" ||
+[Sales Territory Region] = "France" ||
+[Sales Territory Region] = "Germany"
+)
+
+(
+[Sales Territory Region] = "Australia"
+)
